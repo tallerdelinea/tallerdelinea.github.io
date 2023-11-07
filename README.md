@@ -1,12 +1,4 @@
-# tallerdelinea.github.io
-
-Repositorio de trabajos de los cursos 1 y 2 del Taller de Línea: Técnicas, Tecnologías y Procesos del Programa de Realización en Animación de la Universidad Tadeo Lozano. 
-
-A cargo del profesor Renzo Rospigliosi.
-
-2023-2
-
-Taller de línea 2
-
-
-Taller de línea 1
+# simple-portfolio
+a simple portfolio template.
+# Preview
+<img src="https://cdn.discordapp.com/attachments/854378301303947317/975341933964705802/Web_capture_15-5-2022_171911_127.0.0.1.jpeg">
